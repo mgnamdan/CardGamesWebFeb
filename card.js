@@ -19,7 +19,7 @@ class Card {
         } else {
             return false;
         }
-        }
+    }
 
 }
 
